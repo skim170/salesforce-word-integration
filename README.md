@@ -28,9 +28,10 @@ This project connects Microsoft Word and Salesforce through:
 
 ## 📸 Screenshots
 
-![image.png](attachment:9aa7bcee-9625-4c0c-b95d-b050ffaeacbe:image.png)
-![image.png](attachment:40c58dca-8fae-40e3-804d-8cadc3fb0904:image.png)
-![image.png](attachment:96bc9865-9a70-43d5-8b18-d6aa11a2cca4:image.png)
+![image](https://github.com/user-attachments/assets/e491c3a6-a8d7-474a-9d2b-61033e4aafdf)
+![image](https://github.com/user-attachments/assets/59f72c01-a41e-4c6a-9f1b-907f16af564f)
+![image](https://github.com/user-attachments/assets/b4893935-3be1-44f4-a26c-5f86857317ac)
+
 
 ## 📘 Lessons Learned
 
